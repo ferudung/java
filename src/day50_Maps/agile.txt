@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+arkadaşlar merhaba sizlere agile ve watefalla
+methodundan ayrıca agile methodunun avantaj
+ve dez avantajlarından bahsedicem. waterfall
+methodu şelale methodu olarakda bilinir.
+bu methodta 6işleyiş sıra iledir. aşamaları arasında
+geçişlere musade etmez.bir aşama bittikten sonra
+diğerine geçilebilir. bu methodtta sorunlar önceden
+öngörülmeye çalışılırve dolayısıyla son olaran test
+aşamasına gelindiğinde daha önceden fark edilemeyen
+bir sorun var bu projenin başarısız olmasına neden
+olur. cünkü artık geri dönüş yoktur.waterfalla ile
+ilgili abd de obama carier olarka bilirn sağlık
+projesi örnek veilebilir. oldukça büyük çaplı
+bir proje son aşamasında test edilmesi sonucu
+başarısızlık ile sonuçlanmıştır.bu çok büyük bir
+emek, zaman ve para kaybına neden ıkmuştur.
+agile adından da anlaşılacağı üzere çevik bir
+yapıya sahiptir.aşamaları arasında rahatlıkla geçiş
+yapılabilir.ayrıca testi her aşamada yaparak olası
+bir sorunun önüne en baştan geçilebilir.agile değişime
+ve gelişime açıktır. müşteri odaklı olduğu için
+müşteriden alınan feedbacklere göre kendini yeniler
+ayrıca agile kendi kendini idare edebilen bir takımın
+sürekli gelişim ve kontrolüyle idare edilir. bu durum
+sürekli yapılan toplantı ve motive edilmiş aktif bir
+takım ile çok dinamik bir yaklaşım sayesinde sağlanır.
+dolayısıyla günümüzde amazon, apple gibi devasa firmalar
+bu yöntemi kullanırlar.agile ın dezavantajı olarak ciddi
+bir emek ve zaman harcanması nedeniyle maliyetli olması
+söylebilir. agile süreçinde çeşitli toplantılar yapılır
+bu toplantılarda bahsedicek olursak 1. olarak sprint planlama
+toplantısı->scrum ekibi, ürün sahibinden seçilen öğelerin
+ne kadarlık bi sürede yapılabileceğine ve projenin en küçük
+parcası olan user storylere verilen puanlamalara göre
+ekip içerisinde iş paylaşımının yapıldığı toplantıdır.
+diğer bir toplantı daily stand up toplantısı-> günlük
+ayaküstü 15 dk yapılır ve ogün yapılacak işlerden bahsedilir.
+diğer bir toplantı sprint review toplantısı veya buna demo da
+denilebilir. burada tüm ekip bir araya gelir ve nasıl bir
+ilerlem kaydedildiği hakkında ekip bilgilendirilir.
+son olarak sprint recrospective toplantısı takımın
+neyin iyi gittiğini veya neyin iyileştirilebileceğini
+gözden geçirdiği toplantıdır. evet anlatacaklarım bu
+kadar beni dinlediğiniz için teşekkür ederim iyi günler.
+
+
+
+
+
+
+
+
+
+
+

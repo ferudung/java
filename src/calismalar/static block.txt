@@ -1,0 +1,8 @@
+Static Block : Class calistiginda ilk olarak calisir
+bu main methodtan bile önce çalışmasını istediğimiz
+static değişkenlere değer atamak için kullanılır.(initialize)
+
+bizden fazla static block olursa yukardan aşağı sıra ile çalışır.
+
+main method içine static variable veya block olmaz.
+main method olmadan static blok çalışmaz(motor)

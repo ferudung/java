@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=wWh4U4Np05w
+
+değişkenlerin sadece adına değil scope una da bakmalıyım
+
+tünelin öbür ocuna depişkenin kendinimi göndericez yoksa değerini mi ?
+
+Javaya bir method olusturtdugumuzda Java bizim main method'da kullandigimiz
+variable isminde clone/kopya bir variable olusturur
+bunun amaci kod takibini kolaylastirmaktir
+bu degiskenin ismini degistirsek de kodumuz problemsiz calisir

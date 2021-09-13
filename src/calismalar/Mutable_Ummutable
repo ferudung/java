@@ -1,0 +1,8 @@
+interview de sorulabilir!
+
+neden böyle bir durruma ihyaç duyulur?
+thead safe (güvenli eş zamanlı çalışma) için java nesnelerin değerleri
+değişmeyeceği için üzerinde kaç tane thread çalışırsa çalışsın hep
+aynı değer üzerinden işlem yapacaktır.
+ mutable=primtive değişkenler,date,Stringbuilder,stringbuffer,arrays
+ ummutable=string ve tüm wrappers
